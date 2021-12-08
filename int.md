@@ -13,7 +13,7 @@ One inside a git repository, you can start using commands such as
 [add](./Add.md),
 [commit](./Commit.md),
 [push](./push.md)
-and more.
+and more
 
 Init will creat the respsitry in the current directory and will encapsulate all content, including other directories.
 
